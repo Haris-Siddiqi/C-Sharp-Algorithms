@@ -1,7 +1,3 @@
-# Programming-1
-Introductory C# Course
-
+# C#-Basic-Excercises
 
 Discription:
-
-week2_ex1 - Input 3 numbers and display average
