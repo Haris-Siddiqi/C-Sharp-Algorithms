@@ -7,4 +7,4 @@ ex4 - convert litres to gallons // FIX INPUT CHECKER, g to l or l to g <br />
 ex5 - input cost and output cost with tax <br />
 ex6 - number guessing game <br />
 ex7 - rock paper scissors <br />
-ex 8 - lottery game // FIX <br />
+ex8 - lottery game // FIX <br />
