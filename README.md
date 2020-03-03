@@ -1,2 +1,2 @@
 # Programming-1
-Introductory C# course
+Introductory C# Course
