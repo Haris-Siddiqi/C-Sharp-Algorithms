@@ -1,3 +1,3 @@
-# C#-Basic-Excercises
+# C# Basic Excercises
 
 Discription:
