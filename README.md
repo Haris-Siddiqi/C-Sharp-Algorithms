@@ -1,3 +1,1 @@
-# C# Basic Excercises
-
-Discription:
+# Discription
