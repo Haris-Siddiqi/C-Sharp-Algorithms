@@ -6,6 +6,7 @@ getDozensAndSingles.cs - Input number of eggs and display dozens and singles <br
 litersToGallonsConverter - Convert litres to gallons. Uses if statements, loops, try-catch to verify input is in correct format <br />
 // FIX INPUT CHECKER, g to l or l to g <br />
 lotteryGame -  // FIX <br />
+primeCheck - Checks if a number is prime or not <br />
 numberGuessingGame - Uses if statements and random number generator <br />
 provincialTaxCalculator.cs -  Displays cost of item with tax <br />
 rockPaperScissors - Uses if statements and random number generator <br />
