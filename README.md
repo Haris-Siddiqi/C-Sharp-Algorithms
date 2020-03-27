@@ -1,5 +1,6 @@
 # Discription
 
+celsiusToFahrenheit.cs - Converts from celsius to fahrenheit <br />
 digitSum.cs - Sums the individual digits of a number using mod and integer division <br />
 displayAverage.cs - Input 3 numbers and display average <br />
 getDozensAndSingles.cs - Input number of eggs and display dozens and singles <br />
