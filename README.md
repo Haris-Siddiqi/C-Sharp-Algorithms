@@ -1,4 +1,4 @@
-# Discription
+# Description
 
 celsiusToFahrenheit.cs - Converts from celsius to fahrenheit <br />
 digitSum.cs - Sums the individual digits of a number using mod and integer division <br />
